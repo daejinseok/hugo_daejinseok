@@ -1,0 +1,13 @@
+baseurl = "https://daejinseok.github.io/"
+languageCode = "ko-KR"
+title = "대진!"
+
+
+[Params]
+subtitle = "아름다운 부인, 이쁜 딸, 멋진 아들 그리고 평범한 아빠"
+facebook = "https://www.facebook.com/daejin.seok.7"
+github = "https://github.com/daejinseok"
+showsRSS = false
+profile = "/images/totoro.jpg"
+copyright = "Written by daejin"
+analytics = "UA-XXXXXXXX-X"

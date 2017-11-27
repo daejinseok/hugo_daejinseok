@@ -1,7 +1,8 @@
 baseurl = "https://daejinseok.github.io/"
 languageCode = "ko-KR"
 title = "대진!"
-
+theme="angels-ladder"
+publishDir = "../daejinseok.github.io"
 
 [Params]
 subtitle = "아름다운 부인, 이쁜 딸, 멋진 아들 그리고 평범한 아빠"

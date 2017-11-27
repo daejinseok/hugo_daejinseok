@@ -1,9 +1,6 @@
-@import url(https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
-
 body {
-  font-family: 'Spoqa Han Sans', 'Malgun Gothic';
+  font-family: 'Noto Sans DemiLight', 'Malgun Gothic'; 
 }
-
 
 i, cite, em, var, address, dfn {
   font-style: normal;
